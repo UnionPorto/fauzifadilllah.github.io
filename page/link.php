@@ -1,0 +1,1 @@
+<a href="../asset/read.php" class="btn btn-danger" ><i class="fas fa-trash"></i></a>

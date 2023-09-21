@@ -1,0 +1,2 @@
+<td><a href="../outlet/hapus.php?id=<?php echo $dataketerangan['id']; ?>" class="btn btn-danger" ><i class="fas fa-trash"></i></a>|<a href="../outlet/edit.php?id=<?php echo $dataketerangan['id']; ?>" class="btn btn-primary" ><i class="fas fa-clipboard-list"></i></a></td>
+                                                    
